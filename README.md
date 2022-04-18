@@ -6,7 +6,7 @@
 
 #### Project
 
-* [tinyrpc](https://github.com/zehuamama/tinyrpc)：Fast, stable, high performance RPC framework based on protocol buffer
+* [tinyrpc](https://github.com/zehuamama/tinyrpc)：high performance RPC framework based on protocol buffer
 
 
 <!--
