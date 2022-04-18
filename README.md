@@ -1,4 +1,8 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zehuamama&show_icons=true&theme=vue" alt="Andy's github stats" />
+
+### Hi there 👋 I am interested in distributed systems.
+
+
 
 <!--
 **zehuamama/zehuamama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
