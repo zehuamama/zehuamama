@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zehuamama&show_icons=true&theme=vue" alt="Andy's github stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=zehuamama&show_icons=true&theme=vue" alt="Andy's github stats" />
 
 ### Hi there 👋 I am interested in distributed systems and cloud computing.
 
