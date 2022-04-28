@@ -4,8 +4,8 @@
 
 ### Project
 
-* [tinyrpc](https://github.com/zehuamama/tinyrpc)：🚀 Fast, stable, high performance RPC framework based on protocol buffer
-* [tinybalancer](https://github.com/zehuamama/tinybalancer): 🎉 Fast, stable load balancer that supports http and https
+* [tinyrpc](https://github.com/zehuamama/tinyrpc)：🚀 Stable, high performance RPC framework based on protocol buffer
+* [tinybalancer](https://github.com/zehuamama/tinybalancer): 🎉 Fast, stable layer 7 load balancer
 
 <!--
 **zehuamama/zehuamama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
