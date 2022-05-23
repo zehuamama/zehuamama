@@ -6,7 +6,7 @@
 
 ### Project
 
-* [tinyrpc](https://github.com/zehuamama/tinyrpc)：🚀 Stable, high-performance RPC framework based on protocol buffer
+* [tinyrpc](https://github.com/zehuamama/tinyrpc)：🚀 Stable, high-performance RPC framework based on protocol buffer.
 * [balancer](https://github.com/zehuamama/balancer): 🎉 A go library that implements load balancing algorithms. Fast, stable layer 7 load balancer.
 
 <!--
