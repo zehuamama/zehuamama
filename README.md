@@ -9,6 +9,7 @@
 
 * [tinyrpc](https://github.com/zehuamama/tinyrpc)：🚀 Fast, stable, high-performance RPC framework based on protocol buffer.
 * [balancer](https://github.com/zehuamama/balancer): 🎉 A go library that implements load balancing algorithms. Fast, stable layer 7 load balancer.
+* [smos](https://github.com/zehuamama/smos): ✨ serverless multi-objective scheduling algorithm.
 
 <!--
 **zehuamama/zehuamama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
