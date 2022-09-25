@@ -3,7 +3,7 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=zehuamama&show_icons=true&theme=buefy" alt="Andy's github stats" />
 
 ### Hi there 👋 
-#### I'm wanz, a software engineer at Bytedance. I'm interested in `distributed systems` and `cloud computing`.
+#### I'm wanzo, a software engineer at Bytedance. I'm interested in `distributed systems` and `cloud computing`.
 
 ### Project
 
