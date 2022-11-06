@@ -9,6 +9,7 @@
 
 * [tinyrpc](https://github.com/zehuamama/tinyrpc)：🚀 Fast, stable, high-performance RPC framework based on protocol buffer.
 * [balancer](https://github.com/zehuamama/balancer): 🎉 A go library that implements load balancing algorithms. Fast, stable layer 7 load balancer.
+* [redis-tools](https://github.com/zehuamama/redis-tools):⚡A collection of redis tools, including distributed locks, cas, casEx, cad.
 * [smos](https://github.com/zehuamama/smos): ✨ serverless multi-objective scheduling algorithm.
 
 <!--
