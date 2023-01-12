@@ -1,6 +1,6 @@
 ### Stat
 
-<img  src="https://github-readme-stats.vercel.app/api?username=zehuamama&show_icons=true&theme=vue" alt="Andy's github stats" />
+<img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zehuamama" alt="wanzo's github stats" />
 
 ### Hi there 👋 
 #### I'm wanzo, a software engineer at Bytedance. I'm interested in `distributed systems` and `cloud computing`.
