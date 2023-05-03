@@ -5,7 +5,7 @@
 ### Hi there 👋 
 #### I'm wanzo, a software engineer at Bytedance. I'm interested in `distributed systems` and `cloud computing`.
 
-### Mini Project
+### Tiny Project
 
 * [tinyrpc](https://github.com/zehuamama/tinyrpc)：🚀 Fast, stable, mini RPC framework based on protocol buffer.
 * [balancer](https://github.com/zehuamama/balancer): 🎉 A go library that implements load balancing algorithms. Fast, stable mini layer 7 load balancer.
